@@ -1,8 +1,14 @@
 body {
 background: lightblue;
 font-family: 'Times New Roman', Times, serif;
+text-align: center;
 }
-h1 {
+h1, p {
 color: seashell;
 text-align: center;
+}
+
+h2 {
+    color: lavenderblush;
+    text-align: center;
 }
