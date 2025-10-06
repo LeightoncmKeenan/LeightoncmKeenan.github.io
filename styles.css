@@ -8,7 +8,25 @@ color: seashell;
 text-align: center;
 }
 
-h2 {
+.skills {
+    color: lightcoral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.projects {
+    color: lightpink;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.about {
+    color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.contact {
     color: mistyrose;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
